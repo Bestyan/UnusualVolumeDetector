@@ -17,8 +17,8 @@ import multiprocessing
 
 # Change variables to your liking then run the script
 MONTH_CUTTOFF = 5
-DAY_CUTTOFF = 3
-STD_CUTTOFF = 10
+DAY_CUTTOFF = 2
+STD_CUTTOFF = 6
 
 
 class mainObj:
